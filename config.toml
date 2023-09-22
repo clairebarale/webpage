@@ -1,0 +1,10 @@
+baseURL = "https://clairebarale.com/"
+languageCode = "en-us"
+title = "Claire Barale"
+theme= 'hugo-bearblog'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

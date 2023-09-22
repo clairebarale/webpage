@@ -1,0 +1,6 @@
+[submodule "themes/astatine"]
+	path = themes/astatine
+	url = https://github.com/hugcis/hugo-astatine-theme
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
