@@ -1,4 +1,4 @@
-baseURL = "https://clairebarale.com/"
+baseURL = "clairebarale.github.io"
 languageCode = "en-us"
 title = "Claire Barale"
 theme= 'hugo-bearblog'
