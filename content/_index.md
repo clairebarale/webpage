@@ -23,6 +23,8 @@ Before starting my PhD, I worked as a financial analyst and studied at Paris Dau
 
 ## Research and Publications
 
+
+
 **Automated Refugee Case Analysis: A NLP Pipeline for Supporting Legal Practitioners**\
 Claire Barale, Michael Rovatsos, and Nehal Bhuta\
 ACL Findings 2023 | [link to the paper](https://aclanthology.org/2023.findings-acl.187/)
