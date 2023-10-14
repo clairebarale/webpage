@@ -3,7 +3,7 @@
 
 <img src="IMG_5296.jpg" alt="Flowers in Chania" style="max-width:30%;float:left;padding:15px">
 
-Hi! I'm Claire. I am a PhD Candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos), [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta) and [Pasquale Minervini](http://www.neuralnoise.com/). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/).  I am interested in topics in information extraction, indirectly supervised learning, domain-specific language models and fairness for NLP. During my PhD project, I am working on advancing legal information extraction with a specific focus on designing and implementing NLP-based functionalities in the legal workflow to inform, speed up and improve the transparency of the refugee claim process. 
+Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos), [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). As part of EdinburghNLP, I have an ongoing collaboration with [Pasquale Minervini](http://www.neuralnoise.com/). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/).  I am interested in topics in information extraction, indirectly supervised learning, domain-specific language models and fairness for NLP. During my PhD project, I am working on advancing legal information extraction with a specific focus on designing and implementing NLP-based functionalities in the legal workflow to inform, speed up and improve the transparency of the refugee claim process. 
 
 Before starting my PhD, I worked as a financial analyst and studied at Paris Dauphine University. I have a background in economics and finance, and graduated with a masters of research in computer science in 2021 with a project on generating fairness through explanations in decision making. 
 
@@ -23,11 +23,22 @@ Before starting my PhD, I worked as a financial analyst and studied at Paris Dau
 
 ## Research and Publications
 
+**Do Language Models Learn about Legal Entity Types during Pretraining?**\
+Claire Barale, Michael Rovatsos, Nehal Bhuta\
+Do Language Models Learn about Legal Entity Types during Pretraining? | 
 
+
+**AsyLex: A Dataset for Legal Language Processing of Refugee Claims**\
+Claire Barale, Mark Klaisoongnoen, Pasquale Minervini, Michael Rovatsos and Nehal Bhuta\
+Natural Legal Language Processing (NLLP) workshop at EMNLP 2023 |  
 
 **Automated Refugee Case Analysis: A NLP Pipeline for Supporting Legal Practitioners**\
 Claire Barale, Michael Rovatsos, and Nehal Bhuta\
 ACL Findings 2023 | [link to the paper](https://aclanthology.org/2023.findings-acl.187/)
+
+**fAsyLex: Accelerating Legal NLP through Comparative Analysis of Multi-GPU Approaches**\
+Claire Barale\
+Women in High Performance Computing Workshop (WHPC) at SC2023 | 
 
 **Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**\
 Claire Barale\
