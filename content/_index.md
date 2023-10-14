@@ -25,8 +25,7 @@ Before starting my PhD, I worked as a financial analyst and studied at Paris Dau
 
 **Do Language Models Learn about Legal Entity Types during Pretraining?**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
-Do Language Models Learn about Legal Entity Types during Pretraining? | 
-
+Natural Legal Language Processing (NLLP) workshop at EMNLP 2023 |
 
 **AsyLex: A Dataset for Legal Language Processing of Refugee Claims**\
 Claire Barale, Mark Klaisoongnoen, Pasquale Minervini, Michael Rovatsos and Nehal Bhuta\
