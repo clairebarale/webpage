@@ -1,4 +1,4 @@
-baseURL = "www.clairebarale.com"
+baseURL = "clairebarale.com"
 languageCode = "en-us"
 title = "Claire Barale"
 theme= 'hugo-bearblog'
