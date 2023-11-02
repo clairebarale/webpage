@@ -1,7 +1,7 @@
 ---
 ---
 
-<img src="IMG_5296.jpg" alt="Flowers in Chania" style="max-width:30%;float:left;padding:15px">
+<img src="IMG_5296.jpg" alt="claire barale picture" style="max-width:30%;float:left;padding:15px">
 
 Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I have been granted the Bloomberg Data Science PhD Fellowship. As part of EdinburghNLP, I have an ongoing collaboration with [Pasquale Minervini](http://www.neuralnoise.com/). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/).  I am interested in topics in information extraction, indirectly supervised learning, domain-specific language models and fairness for NLP. During my PhD project, I am working on advancing legal information extraction with a specific focus on designing and implementing NLP-based functionalities in the legal workflow to inform, speed up and improve the transparency of the refugee claim process. 
 
@@ -15,6 +15,8 @@ Before starting my PhD, I worked as a financial analyst and studied at Paris Dau
 
 ## News
 
+* October 2023, 2 papers accepted at the NLLP workshop, EMNLP 2023! I will present then on December, 7th in Singapore
+* October 2023, I will present my work at the Women in HPC workshop hosted at SC2023, Denver, CO
 * July 2023, I'm very happy to announce that I received the Bloomberg Data Science Ph.D. Fellowship
 * July 2023, Our paper presenting a new information extraction pipeline for legal documents was published in ACL Findings
 * June 2023, I received the Best Doctoral Consortium Paper Award at ICAIL 2023
@@ -25,7 +27,7 @@ Before starting my PhD, I worked as a financial analyst and studied at Paris Dau
 
 **Do Language Models Learn about Legal Entity Types during Pretraining?**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
-Natural Legal Language Processing (NLLP) workshop at EMNLP 2023 |
+Natural Legal Language Processing (NLLP) workshop at EMNLP 2023 | [link to the paper](https://arxiv.org/abs/2310.13092)
 
 **AsyLex: A Dataset for Legal Language Processing of Refugee Claims**\
 Claire Barale, Mark Klaisoongnoen, Pasquale Minervini, Michael Rovatsos and Nehal Bhuta\
