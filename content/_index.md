@@ -15,6 +15,7 @@ Before starting my PhD, I worked as a financial analyst and studied at Paris Dau
 
 ## News
 
+* November 27th 2023, NYC, I will be co-organizing a workshop on NLPxFinance at the 4th ACM Conference on AI in Finance. [NLP and Network Analysis in Financial Applications](https://sites.google.com/view/nlp-na-in-finance-2023/home). Deadline for submission coming soon, November 10th! 
 * October 2023, 2 papers accepted at the NLLP workshop, EMNLP 2023! I will present then on December, 7th in Singapore
 * October 2023, I will present my work at the Women in HPC workshop hosted at SC2023, Denver, CO
 * July 2023, I'm very happy to announce that I received the Bloomberg Data Science Ph.D. Fellowship
