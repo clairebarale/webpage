@@ -40,7 +40,7 @@ ACL Findings 2023 | [link to the paper](https://aclanthology.org/2023.findings-a
 
 **fAsyLex: Accelerating Legal NLP through Comparative Analysis of Multi-GPU Approaches**\
 Claire Barale\
-Women in High Performance Computing Workshop (WHPC) at SC2023 | [slides](https://github.com/clairebarale/webpage/blob/main/docs/whpc_fasylex_slides.pdf)
+Women in High Performance Computing Workshop (WHPC) at SC2023 | [slides](blob:https://github.com/29b71fa8-b48d-4bf4-bf22-ad75d4c678be)
 
 **Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**\
 Claire Barale\
