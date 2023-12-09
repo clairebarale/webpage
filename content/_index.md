@@ -28,35 +28,35 @@ Before starting my PhD, I worked as a financial analyst and studied at Paris Dau
 
 **Do Language Models Learn about Legal Entity Types during Pretraining?**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
-Proceedings of the 4th Natural Legal Language Processing Workshop (NLLP) at EMNLP 2023 | [link to the paper](https://arxiv.org/abs/2310.13092)
+Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2023 | [paper](https://aclanthology.org/2023.nllp-1.4/) -- [slides](https://github.com/clairebarale/webpage/blob/main/docs/slides_nllp_emnlp_23_pretraining_entities.pdf) -- [poster](https://github.com/clairebarale/webpage/blob/main/docs/poster_nllp_emnlp_23_pretraining_entities.pdf)
 
 **AsyLex: A Dataset for Legal Language Processing of Refugee Claims**\
 Claire Barale, Mark Klaisoongnoen, Pasquale Minervini, Michael Rovatsos and Nehal Bhuta\
-Proceedings of the 4th Natural Legal Language Processing Workshop (NLLP) at EMNLP 2023 |  
+Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2023 | [paper](https://aclanthology.org/2023.nllp-1.24/) -- [slides](https://github.com/clairebarale/webpage/blob/main/docs/slides_nllp_emnlp_23_asylex.pdf) -- [poster](https://github.com/clairebarale/webpage/blob/main/docs/poster_nllp_emnlp_23_asylex.pdf)  
 
 **Automated Refugee Case Analysis: A NLP Pipeline for Supporting Legal Practitioners**\
 Claire Barale, Michael Rovatsos, and Nehal Bhuta\
-ACL Findings 2023 | [link to the paper](https://aclanthology.org/2023.findings-acl.187/)
+ACL Findings 2023 | [paper](https://aclanthology.org/2023.findings-acl.187/)
 
 **fAsyLex: Accelerating Legal NLP through Comparative Analysis of Multi-GPU Approaches**\
 Claire Barale\
-Women in High Performance Computing Workshop (WHPC) at SC2023 | [slides](https://github.com/clairebarale/webpage/blob/main/docs/whpc_fasylex_slides.pdf)
+Women in High Performance Computing Workshop (WHPC) at SC2023 | [slides](https://github.com/clairebarale/webpage/blob/main/docs/slides_whpc_23_sc_fasylex.pdf)
 
 **Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**\
 Claire Barale\
-International Conference on Artificial Intelligence and Law (ICAIL) 2023, Doctoral Consortium, **Best Paper Award** | [link to the paper](https://arxiv.org/abs/2308.11531)
+International Conference on Artificial Intelligence and Law (ICAIL) 2023, Doctoral Consortium, **Best Paper Award** | [paper](https://arxiv.org/abs/2308.11531)
 
 **Human-Centered Computing in Legal NLP - An Application to Refugee Status Determination**\
 Claire Barale\
-Second Workshop on Bridging Human–Computer Interaction and Natural Language Processing at NAACL 2022 | [link to the paper](https://aclanthology.org/2022.hcinlp-1.4/)
+Second Workshop on Bridging Human–Computer Interaction and Natural Language Processing at NAACL 2022 | [paper](https://aclanthology.org/2022.hcinlp-1.4/)
 
 **Refugee status determination: how cooperation with machine learning tools can lead to more justice**\
 Claire Barale\
-Scottish Law and Innovation Network (SCOTLIN) Early Career Scholars Symposium 2022 | [link to the paper](https://arxiv.org/abs/2308.11541)
+Scottish Law and Innovation Network (SCOTLIN) Early Career Scholars Symposium 2022 | [paper](https://arxiv.org/abs/2308.11541)
 
 **What is fair data manipulation?**\
 Alexis Tsoukias, Claire Barale\
-European Conference on Operational Research, 2021 | [link to the paper](https://www.euro-online.org/conferences/program/#abstract/913)
+European Conference on Operational Research, 2021 | [presentation](https://www.euro-online.org/conferences/program/#abstract/913)
 
 **Explanations in decision support – Generating Fairness through explanations**\
 Claire Barale\
