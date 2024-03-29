@@ -15,6 +15,7 @@ Before starting my Ph.D., I worked as a financial analyst and studied at Paris D
 
 ## News
 
+* From May to August 2024, I will be interning at Bloomberg (CTO office) in New York, focusing on information extraction in the legal domain. 
 * November 27th 2023, NYC, I will be co-organizing a workshop on NLPxFinance at the 4th ACM Conference on AI in Finance - [NLP and Network Analysis in Financial Applications](https://sites.google.com/view/nlp-na-in-finance-2023/home). Deadline for submission coming soon, November 10th! 
 * October 2023, 2 papers accepted at the NLLP workshop, EMNLP 2023! I will present them on December, 7th in Singapore
 * October 2023, I will present my work at the Women in HPC workshop hosted at SC2023, Denver, CO
