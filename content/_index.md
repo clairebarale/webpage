@@ -20,7 +20,7 @@ Before starting my Ph.D., I worked as a financial analyst and studied at Paris D
 * November 27th 2023, NYC, I will be co-organizing a workshop on NLPxFinance at the 4th ACM Conference on AI in Finance - [NLP and Network Analysis in Financial Applications](https://sites.google.com/view/nlp-na-in-finance-2023/home). Deadline for submission coming soon, November 10th! 
 * October 2023, 2 papers accepted at the NLLP workshop, EMNLP 2023! I will present them on December, 7th in Singapore
 * October 2023, I will present my work at the Women in HPC workshop hosted at SC2023, Denver, CO
-* July 2023, I'm very happy to announce that I received the Bloomberg Data Science Ph.D. Fellowship
+* July 2023, I'm very happy to announce that [I received the Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/stories/introducing-the-sixth-cohort-of-bloomberg-data-science-ph-d-fellows-2023-2024/)
 * July 2023, Our paper presenting a new information extraction pipeline for legal documents was published in ACL Findings
 * June 2023, I received the Best Doctoral Consortium Paper Award at ICAIL 2023
 
