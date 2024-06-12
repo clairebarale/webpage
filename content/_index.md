@@ -15,7 +15,7 @@ Before starting my Ph.D., I worked as a financial analyst and studied at Paris D
 
 ## News
 
-* June 2025: Our new paper, [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.) is on Arxiv!
+* June 2024: Our new paper, [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.) is on Arxiv!
 * April 2024: Consider attending/submitting to [BAIPsy 2024](https://xuerli.github.io/BAIPSY/), a student workshop that aims to faciliate discussion and exchange between Artificial Intelligence and Psychology researchers.
 * From May to August 2024, I will be interning at Bloomberg (CTO office) in New York, focusing on information extraction in the legal domain. 
 * November 27th 2023, NYC, I will be co-organizing a workshop on NLPxFinance at the 4th ACM Conference on AI in Finance - [NLP and Network Analysis in Financial Applications](https://sites.google.com/view/nlp-na-in-finance-2023/home). Deadline for submission coming soon, November 10th! 
