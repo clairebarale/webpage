@@ -3,9 +3,9 @@
 
 <img src="IMG_5296.jpg" alt="claire barale picture" style="max-width:30%;float:left;padding:15px">
 
-Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta), and a Bloomberg PhD Fellow. As part of EdinburghNLP, I am currently collaborating with [Pasquale Minervini](http://www.neuralnoise.com/). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I am interested in information extraction, indirectly supervised learning, domain-specific language models and fairness for NLP. During my Ph.D. project, I am working on advancing legal information extraction with a specific focus on designing and implementing NLP-based functionalities in the legal workflow to inform, speed up, and improve the transparency of the refugee claim process. 
+Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). As part of the Bloomberg PhD Fellowship received last year, I am currently interning at Bloomberg NYC, supervised by Leslie Barrett, and working on temporal event extraction. I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I am interested in information extraction, indirectly supervised learning, domain-specific language models and fairness for NLP. During my Ph.D. project, I am working on advancing legal information extraction with a specific focus on designing and implementing NLP-based functionalities in the legal workflow to inform, speed up, and improve the transparency of the refugee claim process. 
 
-Before starting my Ph.D., I worked as a financial analyst and studied at Paris Dauphine University. I have a background in economics and finance and graduated with a master's of research in computer science in 2021, with a project on generating fairness through explanations in decision-making. 
+Before starting my Ph.D., I worked as a financial analyst and studied at Paris Dauphine University. I have a background in economics and finance and graduated with a master's of research in computer science in 2021. 
 
 ||||
 |-- |:----: |-- |
@@ -15,7 +15,8 @@ Before starting my Ph.D., I worked as a financial analyst and studied at Paris D
 
 ## News
 
-* April 2024: [BAIPsy 2024](https://xuerli.github.io/BAIPSY/) is a student workshop that aims to faciliate discussion and exchange between Artificial Intelligence and Psychology researchers. Deadline for interest registration is the 1st of May, register [here](https://xuerli.github.io/BAIPSY/)  
+* June 2025: Our new paper, [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.) is on Arxiv!
+* April 2024: Consider attending/submitting to [BAIPsy 2024](https://xuerli.github.io/BAIPSY/), a student workshop that aims to faciliate discussion and exchange between Artificial Intelligence and Psychology researchers.
 * From May to August 2024, I will be interning at Bloomberg (CTO office) in New York, focusing on information extraction in the legal domain. 
 * November 27th 2023, NYC, I will be co-organizing a workshop on NLPxFinance at the 4th ACM Conference on AI in Finance - [NLP and Network Analysis in Financial Applications](https://sites.google.com/view/nlp-na-in-finance-2023/home). Deadline for submission coming soon, November 10th! 
 * October 2023, 2 papers accepted at the NLLP workshop, EMNLP 2023! I will present them on December, 7th in Singapore
