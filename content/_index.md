@@ -3,13 +3,13 @@
 
 <img src="IMG_5296.jpg" alt="claire barale picture" style="max-width:30%;float:left;padding:15px">
 
-Hi! I'm Claire. I am a Ph.D. candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). 
+Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). 
 
-As part of the Bloomberg Ph.D. Fellowship received in 2023, I completed a Research Scientist Internship with Bloomberg AI and Law team, where I was mentored by Leslie Barrett.
+As part of the Bloomberg PhD Fellowship received in 2023, I completed a Research Scientist Internship with Bloomberg AI and Law team, where I was mentored by Leslie Barrett.
 
-I am interested in information extraction, indirectly supervised learning, domain-specific language models and reasoning over expert language. During my Ph.D., I am working on legal information extraction and legal langauge temporal reasoning. 
+I am interested in information extraction, indirectly supervised learning, domain-specific language models and reasoning over expert language. During my Ph.D., I am working on legal information extraction and legal language temporal reasoning. 
 
-I am originally from Nice, France. Before starting my Ph.D., I worked as a financial analyst at Havas New York, and studied at Paris Dauphine University and Mines ParisTech. I have a background in economics and finance and graduated with a master's of research in computer science in 2021.  
+I am originally from Nice, France. Before starting my PhD, I worked as a financial analyst at Havas New York, and studied at Paris Dauphine University and Mines ParisTech. I have a background in economics and finance and graduated with a master's of research in computer science in 2021.  
 
 ||||
 |-- |:----: |-- |
