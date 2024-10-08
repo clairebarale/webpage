@@ -3,9 +3,13 @@
 
 <img src="IMG_5296.jpg" alt="claire barale picture" style="max-width:30%;float:left;padding:15px">
 
-Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). As part of the Bloomberg PhD Fellowship received last year, I am currently interning at Bloomberg NYC, supervised by Leslie Barrett, and working on temporal event extraction. I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I am interested in information extraction, indirectly supervised learning, domain-specific language models and fairness for NLP. During my Ph.D. project, I am working on advancing legal information extraction with a specific focus on designing and implementing NLP-based functionalities in the legal workflow to inform, speed up, and improve the transparency of the refugee claim process. 
+Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). 
 
-Before starting my Ph.D., I worked as a financial analyst and studied at Paris Dauphine University. I have a background in economics and finance and graduated with a master's of research in computer science in 2021. 
+As part of the Bloomberg Ph.D. Fellowship received in 2023, I completed a Research Scientist Internship with Bloomberg AI and Law team, where I was mentored by Leslie Barrett.
+
+I am interested in information extraction, indirectly supervised learning, domain-specific language models and reasoning over expert language. During my Ph.D., I am working on legal information extraction and legal langauge temporal reasoning. 
+
+I am originally from Nice, France. Before starting my Ph.D., I worked as a financial analyst at Havas New York, and studied at Paris Dauphine University and Mines ParisTech. I have a background in economics and finance and graduated with a master's of research in computer science in 2021.  
 
 ||||
 |-- |:----: |-- |
