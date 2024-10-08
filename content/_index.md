@@ -7,7 +7,7 @@ Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supe
 
 As part of the Bloomberg PhD Fellowship received in 2023, I completed a Research Scientist Internship with Bloomberg AI and Law team, where I was mentored by Leslie Barrett.
 
-I am interested in information extraction, indirectly supervised learning, domain-specific language models and reasoning over expert language. During my Ph.D., I am working on legal information extraction and legal language temporal reasoning. 
+I am interested in information extraction, indirectly supervised learning, domain-specific language models and reasoning over expert language. During my PhD, I am working on legal information extraction and legal language temporal reasoning. 
 
 I am originally from Nice, France. Before starting my PhD, I worked as a financial analyst at Havas New York, and studied at Paris Dauphine University and Mines ParisTech. I have a background in economics and finance and graduated with a master's of research in computer science in 2021.  
 
