@@ -34,10 +34,6 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 
 ## Research and Publications
 
-**Information Extraction for Planning Court Cases** 
-Drish Mali, Rubash Mali, Claire Barale\
-Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2024 
-
 **Do Language Models Learn about Legal Entity Types during Pretraining?**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
 Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2023 | [paper](https://aclanthology.org/2023.nllp-1.4/) -- [slides](https://github.com/clairebarale/webpage/blob/main/docs/slides_nllp_emnlp_23_pretraining_entities.pdf) -- [poster](https://github.com/clairebarale/webpage/blob/main/docs/poster_nllp_emnlp_23_pretraining_entities.pdf)
