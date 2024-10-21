@@ -34,7 +34,7 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 
 ## Research and Publications
 
-**Information Extraction for Planning Court Cases**\ 
+**Information Extraction for Planning Court Cases** 
 Drish Mali, Rubash Mali, Claire Barale\
 Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2024 
 
