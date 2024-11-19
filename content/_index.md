@@ -11,7 +11,7 @@ I am interested in integrating knowledge in language models and enhancing their 
 
 My PhD research focuses on legal NLP, utilizing the framework provided by legal texts to explore knowledge integration and the capabilities of LLMs. Over the past three years, my research has taken several directions: 
 
-**(1) Information Extraction Content Selection**: Extracting relevant information from large unstructured datasets of legal texts to improve legal search functionality and selecting salient legal content from lengthy documents to improve the quality of downstream tasks such as summarization. 
+**(1) Information Extraction and Content Selection**: Extracting relevant information from large unstructured datasets of legal texts to improve legal search and selecting salient legal content from lengthy documents to improve the quality of downstream tasks such as summarization. 
 
 **(2) Evaluation of LLMs**: Evaluate the capabilities of LLMs in retrieving information and reasoning to understand the types of signals they learn and retain in memory — whether they are syntactic, semantic, or specific to legal knowledge — and how well they generalize.
 
