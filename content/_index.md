@@ -5,11 +5,19 @@
 
 Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). The expected submission date of my dissertation is June 2025.  
 
-As part of the Bloomberg PhD Fellowship received in 2023, I completed a Research Scientist Internship with Bloomberg AI and Law team, where I was mentored by Leslie Barrett.
+As part of the Bloomberg PhD Fellowship received in 2023, I completed a Research Scientist Internship with Bloomberg AI and Law team.
 
-I am interested in information extraction, indirectly supervised learning, domain-specific language models and reasoning over expert language. During my PhD, I am working on legal information extraction and legal language temporal reasoning. 
+I am interested in integrating knowledge in language models and enhancing their reasoning capabilities. Lately, I have been working on temporal reasoning, for example, ordering a sequence of events from an input text.
 
-I am originally from Nice, France. Before starting my PhD, I worked as a financial analyst at Havas New York, and studied at Paris Dauphine University and Mines ParisTech. I have a background in economics and finance and graduated with a master's of research in computer science in 2021.  
+My PhD research focuses on legal NLP, utilizing the framework provided by legal texts to explore knowledge integration and the capabilities of LLMs. Over the past three years, my research has taken several directions: 
+
+**(1) Information Extraction Content Selection**: Extracting relevant information from large unstructured datasets of legal texts to improve legal search functionality and selecting salient legal content from lengthy documents to improve the quality of downstream tasks such as summarization. 
+
+**(2) Evaluation of LLMs**: Evaluate the capabilities of LLMs in retrieving information and reasoning to understand the types of signals they learn and retain in memory — whether they are syntactic, semantic, or specific to legal knowledge — and how well they generalize.
+
+**(3) Pretraining Data Representation**: Recently, I have been exploring various methods for representing data used in pretraining to enhance specific reasoning capabilities of LLMs. This includes researching ways to improve their abilities in temporal reasoning, such as teaching a model to recognize temporal signals and link them to the appropriate events. 
+
+I am originally from Nice, France. Before starting my PhD, I worked as a financial analyst at Havas New York, and studied at Paris Dauphine University and Mines ParisTech. I graduated with a master's of research in computer science in 2021.  
 
 ||||
 |-- |:----: |-- |
@@ -34,6 +42,14 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 
 ## Research and Publications
 
+**Are We Done with MMLU?**\
+Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini\
+[preprint](https://arxiv.org/abs/2406.04127)
+
+**Information Extraction for Planning Court Cases**\
+Drish Mali, Rubash Mali, Claire Barale\
+Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2024 | [paper](https://aclanthology.org/2024.nllp-1.8/)
+
 **Do Language Models Learn about Legal Entity Types during Pretraining?**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
 Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2023 | [paper](https://aclanthology.org/2023.nllp-1.4/) -- [slides](https://github.com/clairebarale/webpage/blob/main/docs/slides_nllp_emnlp_23_pretraining_entities.pdf) -- [poster](https://github.com/clairebarale/webpage/blob/main/docs/poster_nllp_emnlp_23_pretraining_entities.pdf)
@@ -42,7 +58,7 @@ Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 20
 Claire Barale, Mark Klaisoongnoen, Pasquale Minervini, Michael Rovatsos and Nehal Bhuta\
 Proceedings of the Natural Legal Language Processing Workshop (NLLP) at EMNLP 2023 | [paper](https://aclanthology.org/2023.nllp-1.24/) -- [slides](https://github.com/clairebarale/webpage/blob/main/docs/slides_nllp_emnlp_23_asylex.pdf) -- [poster](https://github.com/clairebarale/webpage/blob/main/docs/poster_nllp_emnlp_23_asylex.pdf)  
 
-**Automated Refugee Case Analysis: A NLP Pipeline for Supporting Legal Practitioners**\
+**Automated Refugee Case Analysis: An NLP Pipeline for Supporting Legal Practitioners**\
 Claire Barale, Michael Rovatsos, and Nehal Bhuta\
 ACL Findings 2023 | [paper](https://aclanthology.org/2023.findings-acl.187/)
 
