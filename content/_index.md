@@ -21,7 +21,7 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 
 ||||
 |-- |:----: |-- |
-||[Google Scholar](https://scholar.google.com/citations?user=oAqjTukAAAAJ&hl) \| [Twitter](https://twitter.com/clairebarale) \| [Linkedin](https://www.linkedin.com/in/claire-barale-leandri/) \||            
+||[Google Scholar](https://scholar.google.com/citations?user=oAqjTukAAAAJ&hl) \| [Twitter](https://twitter.com/clairebarale) \| [Linkedin](https://www.linkedin.com/in/claire-barale-leandri/) \| Email: claire.barale (at) ed.ac.uk||            
 
 ---
 
