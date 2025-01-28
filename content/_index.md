@@ -26,9 +26,8 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 ---
 
 ## News
-
+* January 2025: [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.), our paper presenting MMLU-Redux will be at NAACL 2025 
 * October 2024: Our paper Information Extraction for Planning Court Cases  was accepted to NLLP 2024 (hosted at EMNLP)
-* June 2024: Our new paper, [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.) is on Arxiv!
 * April 2024: Consider attending/submitting to [BAIPsy 2024](https://xuerli.github.io/BAIPSY/), a student workshop that aims to faciliate discussion and exchange between Artificial Intelligence and Psychology researchers.
 * From May to August 2024, I will be interning at Bloomberg (CTO office) in New York, focusing on information extraction in the legal domain. 
 * November 27th 2023, NYC, I will be co-organizing a workshop on NLPxFinance at the 4th ACM Conference on AI in Finance - [NLP and Network Analysis in Financial Applications](https://sites.google.com/view/nlp-na-in-finance-2023/home). Deadline for submission coming soon, November 10th! 
@@ -44,7 +43,7 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 
 **Are We Done with MMLU?**\
 Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini\
-[preprint](https://arxiv.org/abs/2406.04127)
+NAACL 2025 | [preprint](https://arxiv.org/abs/2406.04127)
 
 **Information Extraction for Planning Court Cases**\
 Drish Mali, Rubash Mali, Claire Barale\
