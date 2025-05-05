@@ -41,9 +41,13 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 
 ## Research and Publications
 
+**Faithfulness and Content Selection in Long-Input Multi-Document Summarisation of U.S. Civil Rights Litigation**\
+Isabel Sebire, Claire Barale, Mirella Lapata\
+ICAIL 2025 (ACM International Conference on AI and Law)
+
 **Are We Done with MMLU?**\
 Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini\
-NAACL 2025 | [preprint](https://arxiv.org/abs/2406.04127)
+NAACL 2025 | [paper](https://aclanthology.org/2025.naacl-long.262/)
 
 **Information Extraction for Planning Court Cases**\
 Drish Mali, Rubash Mali, Claire Barale\
