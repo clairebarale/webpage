@@ -5,9 +5,9 @@
 
 Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). The expected submission date of my dissertation is June 2025.  
 
-As part of the Bloomberg PhD Fellowship received in 2023, I completed a Research Scientist Internship with Bloomberg AI and Law team.
+As part of the Bloomberg PhD Fellowship received in 2023, I completed a Research Scientist Internship at Bloomberg.
 
-I am interested in integrating knowledge in language models and enhancing their reasoning capabilities. Lately, I have been working on temporal reasoning, for example, ordering a sequence of events from an input text.
+I am interested in integrating knowledge in language models, adapting them to specific domains, and understanding and enhancing their reasoning capabilities when faced with new scenarios. Lately, I have been working on temporal reasoning, for example, ordering a sequence of events from an input text.
 
 My PhD research focuses on legal NLP, utilizing the framework provided by legal texts to explore knowledge integration and the capabilities of LLMs. Over the past three years, my research has taken several directions: 
 
@@ -40,6 +40,14 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 ---
 
 ## Research and Publications
+**LexTime: A Benchmark for Temporal Ordering of Legal Events**\
+Claire Barale, Leslie Barrett, Vikram Sunil Bajaj, Michael Rovatsos\
+Preprint
+
+**When Fairness Isn't Statistical: The Limits of Machine Learning in Evaluating Legal Reasoning**\
+Claire Barale, Michael Rovatsos, Nehal Bhuta\
+Preprint
+
 
 **Faithfulness and Content Selection in Long-Input Multi-Document Summarisation of U.S. Civil Rights Litigation**\
 Isabel Sebire, Claire Barale, Mirella Lapata\
