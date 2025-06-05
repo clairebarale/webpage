@@ -26,6 +26,8 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 ---
 
 ## News
+* June 2025: 2 new preprints, available to read in the below list of papers
+* May 2025: Paper accepted at ICAIL
 * January 2025: [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.), our paper presenting MMLU-Redux will be at NAACL 2025 
 * October 2024: Our paper Information Extraction for Planning Court Cases  was accepted to NLLP 2024 (hosted at EMNLP)
 * April 2024: Consider attending/submitting to [BAIPsy 2024](https://xuerli.github.io/BAIPSY/), a student workshop that aims to faciliate discussion and exchange between Artificial Intelligence and Psychology researchers.
@@ -42,11 +44,11 @@ I am originally from Nice, France. Before starting my PhD, I worked as a financi
 ## Research and Publications
 **LexTime: A Benchmark for Temporal Ordering of Legal Events**\
 Claire Barale, Leslie Barrett, Vikram Sunil Bajaj, Michael Rovatsos\
-Preprint
+[Preprint](https://arxiv.org/abs/2506.04041)
 
 **When Fairness Isn't Statistical: The Limits of Machine Learning in Evaluating Legal Reasoning**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
-Preprint
+[Preprint](https://arxiv.org/abs/2506.03913)
 
 
 **Faithfulness and Content Selection in Long-Input Multi-Document Summarisation of U.S. Civil Rights Litigation**\
