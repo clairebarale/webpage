@@ -5,19 +5,21 @@
 
 Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I'll be finishing my PhD soon, and am on the job market for postdoc/research scientists positions. Feel free to reach out if my profile seems like a good fit!   
 
-As part of the Bloomberg PhD Fellowship received in 2023, I completed a Research Scientist Internship at Bloomberg.
+In 2023, I was awarded a 3 years Bloomberg PhD Fellowship. In 2024, I completed a Research Scientist Internship at Bloomberg NYC, where I worked on language modeling for structured reasoning tasks, including reasoning on implicit events.
 
-I am interested in integrating knowledge in language models, adapting them to specific domains, and understanding and enhancing their reasoning capabilities when faced with new scenarios. Lately, I have been working on temporal reasoning, for example, ordering a sequence of events from an input text.
+I am interested in integrating knowledge in language models, adapting them to specific domains, and understanding and enhancing their reasoning capabilities when faced with new scenarios. Lately, I have been working on temporal and numerical reasoning, for example, ordering a sequence of events from an input text.
 
-My PhD research focuses on legal NLP, utilizing the framework provided by legal texts to explore knowledge integration and the capabilities of LLMs. Over the past three years, my research has taken several directions: 
+My PhD research focuses on legal NLP, utilizing the framework provided by legal texts, norms, and reasoning to explore knowledge integration and the capabilities of LLMs. Over the past three years, my research has taken several directions: 
 
 **(1) Information Extraction and Content Selection**: Extracting relevant information from large unstructured datasets of legal texts to improve legal search and selecting salient legal content from lengthy documents to improve the quality of downstream tasks such as summarization. 
 
-**(2) Evaluation of LLMs**: Evaluate the capabilities of LLMs in retrieving information and reasoning to understand the types of signals they learn and retain in memory — whether they are syntactic, semantic, or specific to legal knowledge — and how well they generalize.
+**(2) Evaluation of LLMs**: Evaluate the capabilities of LLMs in retrieving information and reasoning to understand the types of signals they learn and retain (whether they are syntactic, semantic, or specific domain knowledge) and the impact of grammar/linguistic structure on models' performance.
 
-**(3) Pretraining Data Representation**: Recently, I have been exploring various methods for representing data used in pretraining to enhance specific reasoning capabilities of LLMs. This includes researching ways to improve their abilities in temporal reasoning, such as teaching a model to recognize temporal signals and link them to the appropriate events. 
+**(3) Data Representation**: Recently and building on findings from (2), I have been exploring various methods for representing data to enhance specific reasoning capabilities of LLMs, and align them to specific domains.
 
-I am originally from Nice, France. Before starting my PhD, I worked as a financial analyst at Havas New York, and studied at Paris Dauphine University and Mines ParisTech. I graduated with a master's of research in computer science in 2021.  
+I graduated with a master's of research in computer science from Paris Dauphine and École des mines de Paris (2021), during which I was a research assistant advised by [Alexis Tsoukias](https://dauphine.psl.eu/recherche/cvtheque/profil/tsoukias-alexis) in the [LAMSADE lab](https://www.lamsade.dauphine.fr/en.html), working on fairness in recommender systems.  
+
+Before all that, I studied Economics at Paris Dauphine University and worked as a financial analyst in NYC. I was born and raised in Nice, France.
 
 ||||
 |-- |:----: |-- |
@@ -81,7 +83,8 @@ Women in High Performance Computing Workshop (WHPC) at SC2023 | [slides](https:/
 
 **Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**\
 Claire Barale\
-International Conference on Artificial Intelligence and Law (ICAIL) 2023, Doctoral Consortium, **Best Paper Award** | [paper](https://arxiv.org/abs/2308.11531)
+International Conference on Artificial Intelligence and Law (ICAIL) 2023, Doctoral Consortium, <span class="highlight-yellow">**Best Paper Award**</span>  
+[paper](https://arxiv.org/abs/2308.11531)
 
 **Human-Centered Computing in Legal NLP - An Application to Refugee Status Determination**\
 Claire Barale\
@@ -97,7 +100,7 @@ European Conference on Operational Research, 2021 | [presentation](https://www.e
 
 **Explanations in decision support – Generating Fairness through explanations**\
 Claire Barale\
-PSL Université Paris Dauphine, Paris. Masters of Research Dissertation, 2021
+PSL Université Paris (Dauphine, Ecole des Mines). Masters of Research Dissertation, 2021
 
 ---
 
