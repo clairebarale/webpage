@@ -83,8 +83,7 @@ Women in High Performance Computing Workshop (WHPC) at SC2023 | [slides](https:/
 
 **Empowering Refugee Claimants and their Lawyers: Using Machine Learning to Examine Decision-Making in Refugee Law**\
 Claire Barale\
-International Conference on Artificial Intelligence and Law (ICAIL) 2023, Doctoral Consortium, <span class="highlight-yellow">**Best Paper Award**</span>  
-[paper](https://arxiv.org/abs/2308.11531)
+International Conference on Artificial Intelligence and Law (ICAIL) 2023, Doctoral Consortium, **Best Paper Award** | [paper](https://arxiv.org/abs/2308.11531)
 
 **Human-Centered Computing in Legal NLP - An Application to Refugee Status Determination**\
 Claire Barale\
