@@ -50,7 +50,7 @@ Claire Barale, Leslie Barrett, Vikram Sunil Bajaj, Michael Rovatsos\
 
 **When Fairness Isn't Statistical: The Limits of Machine Learning in Evaluating Legal Reasoning**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
-[Preprint](https://arxiv.org/abs/2506.03913)
+Preprint\
 
 
 **Faithfulness and Content Selection in Long-Input Multi-Document Summarisation of U.S. Civil Rights Litigation**\
