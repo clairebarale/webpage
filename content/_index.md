@@ -3,7 +3,7 @@
 
 <img src="IMG_5296.jpg" alt="claire barale picture" style="max-width:30%;float:left;padding:15px">
 
-Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos) and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I'll be finishing my PhD soon, and am on the job market for postdoc/research scientists positions. Feel free to reach out if my profile seems like a good fit!   
+Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, where I work with [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos), [Pasquale Minervini](http://www.neuralnoise.com/), and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I'll be finishing my PhD soon, and am on the job market for postdoc/research scientists positions. Feel free to reach out if my profile seems like a good fit!   
 
 In 2023, I was awarded a 3 years Bloomberg PhD Fellowship. In 2024, I completed a Research Scientist Internship at Bloomberg NYC, where I worked on language modeling for structured reasoning tasks, including reasoning on implicit events.
 
