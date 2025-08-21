@@ -28,7 +28,7 @@ Before all that, I studied Economics at Paris Dauphine University and worked as 
 ---
 
 ## News
-* August 2025: Our paper LexTime: A Benchmark for Temporal Ordering of Legal Events, has been accepted at EMNLP Findings
+* August 2025: Our paper LexTime: A Benchmark for Temporal Ordering of Legal Events, has been accepted at EMNLP Findings. We will also present it at the XTempLLMs workshop hosted at COLM. 
 * May 2025: Our paper on Faithfulness and Content Selection in Summarisation has been accepted at ICAIL
 * January 2025: [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.), our paper presenting MMLU-Redux will be at NAACL 2025 
 * October 2024: Our paper Information Extraction for Planning Court Cases  was accepted to NLLP 2024 (hosted at EMNLP)
