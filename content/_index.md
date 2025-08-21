@@ -46,7 +46,7 @@ Before all that, I studied Economics at Paris Dauphine University and worked as 
 ## Research and Publications
 **LexTime: A Benchmark for Temporal Ordering of Legal Events**\
 Claire Barale, Leslie Barrett, Vikram Sunil Bajaj, Michael Rovatsos\
-EMNLP Findings 2025 [Preprint](https://arxiv.org/abs/2506.04041)
+EMNLP Findings 2025 | [Preprint](https://arxiv.org/abs/2506.04041)
 
 **When Fairness Isn't Statistical: The Limits of Machine Learning in Evaluating Legal Reasoning**\
 Claire Barale, Michael Rovatsos, Nehal Bhuta\
