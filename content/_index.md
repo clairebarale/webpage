@@ -5,9 +5,9 @@
 
 Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, where I work with [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos), [Pasquale Minervini](http://www.neuralnoise.com/), and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I'll be finishing my PhD soon, and am on the job market for postdoc/research scientists positions. Feel free to reach out if my profile seems like a good fit!   
 
-In 2023, I was awarded a 3 years Bloomberg PhD Fellowship. In 2024, I completed a Research Scientist Internship at Bloomberg NYC, where I worked on language modeling for structured reasoning tasks, including reasoning on implicit events.
+In 2023, I was awarded a 3 years Bloomberg PhD Fellowship. In 2024, I completed a Research Scientist Internship at Bloomberg NYC, where I worked on legal language modeling and evaluating how language models represent and reason over legal language, including reasoning on implicit events.
 
-I am interested in integrating knowledge in language models, adapting them to specific domains, and understanding and enhancing their reasoning capabilities when faced with new scenarios. Lately, I have been working on temporal and numerical reasoning, for example, ordering a sequence of events from an input text.
+I am interested in integrating knowledge in language models, and understanding their capabilities when faced with new scenarios and language registers. 
 
 My PhD research focuses on legal NLP, utilizing the framework provided by legal texts, norms, and reasoning to explore knowledge integration and the capabilities of LLMs. Over the past three years, my research has taken several directions: 
 
@@ -15,11 +15,11 @@ My PhD research focuses on legal NLP, utilizing the framework provided by legal 
 
 **(2) Evaluation of LLMs**: Evaluate the capabilities of LLMs in retrieving information and reasoning to understand the types of signals they learn and retain (whether they are syntactic, semantic, or specific domain knowledge) and the impact of grammar/linguistic structure on models' performance.
 
-**(3) Data Representation**: Recently and building on findings from (2), I have been exploring various methods for representing data to enhance specific reasoning capabilities of LLMs, and align them to specific domains.
+**(3) Data Representation**: Building on findings from (2), I have been exploring various methods for representing data to enhance specific capabilities of LLMs, and align them to specific domains.
 
 I graduated with a master's of research in computer science from Paris Dauphine and École des mines de Paris (2021), during which I was a research assistant advised by [Alexis Tsoukias](https://dauphine.psl.eu/recherche/cvtheque/profil/tsoukias-alexis) in the [LAMSADE lab](https://www.lamsade.dauphine.fr/en.html), working on fairness in recommender systems.  
 
-Before all that, I studied Economics at Paris Dauphine University and worked as a financial analyst in NYC. I was born and raised in Nice, France.
+Before all that, I studied Economics at Paris Dauphine University and worked as a financial analyst in NYC. I was born and grew up in Nice, France.
 
 ||||
 |-- |:----: |-- |
@@ -28,6 +28,9 @@ Before all that, I studied Economics at Paris Dauphine University and worked as 
 ---
 
 ## News
+* July 2026: I will be a panelist at the [AI for Law workshop at ICML](https://sites.google.com/view/ai4law-icml2026). 
+* June 2026: I have been awarded my PhD degree!
+* January 2026: I passed my viva with minor corrections. Thanks to the examiners: Simone Teufel, Nikos Aletras and Adam Lopez.
 * August 2025: Our paper LexTime: A Benchmark for Temporal Ordering of Legal Events, has been accepted at EMNLP Findings. We will also present it at the XTempLLMs workshop hosted at COLM. 
 * May 2025: Our paper on Faithfulness and Content Selection in Summarisation has been accepted at ICAIL
 * January 2025: [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.), our paper presenting MMLU-Redux will be at NAACL 2025 
