@@ -3,27 +3,15 @@
 
 <img src="IMG_5296.jpg" alt="claire barale picture" style="max-width:30%;float:left;padding:15px">
 
-Hi! I'm Claire. I am a PhD candidate in NLP at the University of Edinburgh, where I work with [Michael Rovatsos](https://www.ed.ac.uk/profile/prof-michael-rovatsos), [Pasquale Minervini](http://www.neuralnoise.com/), and [Nehal Bhuta](https://www.law.ed.ac.uk/people/professor-nehal-bhuta). I am also affiliated with the [Centre for Technomoral Futures](https://www.technomoralfutures.uk/). I'll be finishing my PhD soon, and am on the job market for postdoc/research scientists positions. Feel free to reach out if my profile seems like a good fit!   
+I am a postdoc at the University of Copenhagen. I completed my PhD in NLP at the University of Edinburgh, supervised by [Michael Rovatsos](https://edwebprofiles.ed.ac.uk/profile/prof-michael-rovatsos). My PhD was supported by a Bloomberg Data Science PhD Fellowship. I spent time at Bloomberg as a research intern working on legal language modeling, and as a research engineer working on natural language understanding and agentic systems. 
 
-In 2023, I was awarded a 3 years Bloomberg PhD Fellowship. In 2024, I completed a Research Scientist Internship at Bloomberg NYC, where I worked on legal language modeling and evaluating how language models represent and reason over legal language, including reasoning on implicit events.
+I am interested in understanding language models and their behavior when faced with non-standard language and registers like legal language.   
 
-I am interested in integrating knowledge in language models, and understanding their capabilities when faced with new scenarios and language registers. 
-
-My PhD research focuses on legal NLP, utilizing the framework provided by legal texts, norms, and reasoning to explore knowledge integration and the capabilities of LLMs. Over the past three years, my research has taken several directions: 
-
-**(1) Information Extraction and Content Selection**: Extracting relevant information from large unstructured datasets of legal texts to improve legal search and selecting salient legal content from lengthy documents to improve the quality of downstream tasks such as summarization. 
-
-**(2) Evaluation of LLMs**: Evaluate the capabilities of LLMs in retrieving information and reasoning to understand the types of signals they learn and retain (whether they are syntactic, semantic, or specific domain knowledge) and the impact of grammar/linguistic structure on models' performance.
-
-**(3) Data Representation**: Building on findings from (2), I have been exploring various methods for representing data to enhance specific capabilities of LLMs, and align them to specific domains.
-
-I graduated with a master's of research in computer science from Paris Dauphine and École des mines de Paris (2021), during which I was a research assistant advised by [Alexis Tsoukias](https://dauphine.psl.eu/recherche/cvtheque/profil/tsoukias-alexis) in the [LAMSADE lab](https://www.lamsade.dauphine.fr/en.html), working on fairness in recommender systems.  
-
-Before all that, I studied Economics at Paris Dauphine University and worked as a financial analyst in NYC. I was born and grew up in Nice, France.
+Before all that, I completed a master's of research in computer science from Paris Dauphine and École des mines de Paris, during which I was a research assistant advised by [Alexis Tsoukias](https://dauphine.psl.eu/recherche/cvtheque/profil/tsoukias-alexis) in the [LAMSADE lab](https://www.lamsade.dauphine.fr/en.html). I was born and grew up in Nice, France.
 
 ||||
 |-- |:----: |-- |
-||[Google Scholar](https://scholar.google.com/citations?user=oAqjTukAAAAJ&hl) \| [Twitter](https://twitter.com/clairebarale) \| [Linkedin](https://www.linkedin.com/in/claire-barale-leandri/) \| Email: claire.barale (at) ed.ac.uk||            
+||[Google Scholar](https://scholar.google.com/citations?user=oAqjTukAAAAJ&hl) \| [Twitter](https://twitter.com/clairebarale) \| [Linkedin](https://www.linkedin.com/in/claire-barale-leandri/) \| Email: claire.barale (at) di.ku.dk||            
 
 ---
 
