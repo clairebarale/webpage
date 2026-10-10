@@ -34,5 +34,3 @@ Before all that, I completed a master's of research in computer science from Par
 * July 2023, Our paper presenting a new information extraction pipeline for legal documents was published in ACL Findings
 * June 2023, I received the Best Doctoral Consortium Paper Award at ICAIL 2023
 
----
---

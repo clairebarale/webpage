@@ -2,6 +2,6 @@
 title: "CV"
 ---
 
-[Download CV (PDF)](/files/academic_cv.pdf)
+[See academic CV (PDF)](/files/academic_cv.pdf)
 
 *Last updated: October 2026*
