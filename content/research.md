@@ -12,7 +12,7 @@ EMNLP Findings 2025 | [paper](https://aclanthology.org/2025.findings-emnlp.280/)
 
 **Faithfulness and Content Selection in Long-Input Multi-Document Summarisation of U.S. Civil Rights Litigation**\
 Isabel Sebire, Claire Barale, Mirella Lapata\
-ICAIL 2025 (ACM International Conference on AI and Law) | [slides](/files/ICAIL2025_slides)
+ICAIL 2025 (ACM International Conference on AI and Law) | [slides](/files/ICAIL2025_slides.pdf)
 
 **Are We Done with MMLU?**\
 Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini\
