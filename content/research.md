@@ -4,7 +4,7 @@ title: "Research"
 
 **Learning to Understand Entities in Legal Texts**\
 Claire Barale\
-PhD thesis, 2026 | [thesis](https://era.ed.ac.uk/server/api/core/bitstreams/96e0125d-f428-4918-aa0f-696c0881099f/content)
+PhD thesis, 2026 | [thesis](https://era.ed.ac.uk/server/api/core/bitstreams/96e0125d-f428-4918-aa0f-696c0881099f/content) -- [pre-viva talk slides](/files/Previva_slides.pdf)
 
 **LexTime: A Benchmark for Temporal Ordering of Legal Events**\
 Claire Barale, Leslie Barrett, Vikram Sunil Bajaj, Michael Rovatsos\
@@ -12,7 +12,7 @@ EMNLP Findings 2025 | [paper](https://aclanthology.org/2025.findings-emnlp.280/)
 
 **Faithfulness and Content Selection in Long-Input Multi-Document Summarisation of U.S. Civil Rights Litigation**\
 Isabel Sebire, Claire Barale, Mirella Lapata\
-ICAIL 2025 (ACM International Conference on AI and Law)
+ICAIL 2025 (ACM International Conference on AI and Law) | [slides](/files/ICAIL2025_slides)
 
 **Are We Done with MMLU?**\
 Aryo Pradipta Gema, Joshua Ong Jun Leang, Giwon Hong, Alessio Devoto, Alberto Carlo Maria Mancino, Rohit Saxena, Xuanli He, Yu Zhao, Xiaotang Du, Mohammad Reza Ghasemi Madani, Claire Barale, Robert McHardy, Joshua Harris, Jean Kaddour, Emile van Krieken, Pasquale Minervini\
