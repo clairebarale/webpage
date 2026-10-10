@@ -16,7 +16,7 @@ Before all that, I completed a master's of research in computer science from Par
 ---
 
 ## News
-* Started my postdoc at the University of Copenhagen
+* October 2026: Started my postdoc at the University of Copenhagen
 * July 2026: I will be a panelist at the [AI for Law workshop at ICML](https://sites.google.com/view/ai4law-icml2026). 
 * June 2026: I have been awarded my PhD degree!
 * January 2026: I passed my viva with minor corrections. Thanks to the examiners: Simone Teufel, Nikos Aletras and Adam Lopez.
