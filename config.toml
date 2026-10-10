@@ -1,4 +1,4 @@
-baseURL = "clairebarale.com"
+baseURL = "https://clairebarale.com/"
 languageCode = "en-us"
 title = "Claire Barale"
 theme= 'hugo-bearblog'
@@ -8,3 +8,12 @@ theme= 'hugo-bearblog'
     [markup.goldmark.renderer]
       unsafe = true
 
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 1
+
+[[menu.main]]
+  name = "Research"
+  url = "/research/"
+  weight = 2
