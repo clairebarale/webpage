@@ -8,7 +8,7 @@ PhD thesis, 2026 | [thesis](https://era.ed.ac.uk/server/api/core/bitstreams/96e0
 
 **LexTime: A Benchmark for Temporal Ordering of Legal Events**\
 Claire Barale, Leslie Barrett, Vikram Sunil Bajaj, Michael Rovatsos\
-EMNLP Findings 2025 | [paper](https://aclanthology.org/2025.findings-emnlp.280/) | [slides](/files/EMNLP 2025_Find-907_slides.pdf)
+EMNLP Findings 2025 | [paper](https://aclanthology.org/2025.findings-emnlp.280/) -- [slides](/files/'EMNLP 2025_Find-907_slides.pdf') -- [poster](/files/EMNLP 2025_Find-907_poster.pdf)
 
 **Faithfulness and Content Selection in Long-Input Multi-Document Summarisation of U.S. Civil Rights Litigation**\
 Isabel Sebire, Claire Barale, Mirella Lapata\
