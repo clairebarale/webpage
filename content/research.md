@@ -2,8 +2,8 @@
 title: "Research"
 ---
 
-**Learning to Understand Entities in Legal Texts**
-Claire Barale
+**Learning to Understand Entities in Legal Texts**\
+Claire Barale\
 PhD thesis, 2026 | [thesis](https://era.ed.ac.uk/server/api/core/bitstreams/96e0125d-f428-4918-aa0f-696c0881099f/content)
 
 **LexTime: A Benchmark for Temporal Ordering of Legal Events**\

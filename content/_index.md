@@ -16,9 +16,11 @@ Before all that, I completed a master's of research in computer science from Par
 ---
 
 ## News
+* Started my postdoc at the University of Copenhagen
 * July 2026: I will be a panelist at the [AI for Law workshop at ICML](https://sites.google.com/view/ai4law-icml2026). 
 * June 2026: I have been awarded my PhD degree!
 * January 2026: I passed my viva with minor corrections. Thanks to the examiners: Simone Teufel, Nikos Aletras and Adam Lopez.
+* November 2025: Started working at Bloomberg AI in London
 * August 2025: Our paper LexTime: A Benchmark for Temporal Ordering of Legal Events, has been accepted at EMNLP Findings. We will also present it at the XTempLLMs workshop hosted at COLM. 
 * May 2025: Our paper on Faithfulness and Content Selection in Summarisation has been accepted at ICAIL
 * January 2025: [Are we done with MMLU?](https://arxiv.org/abs/2406.04127#:~:text=Maybe%20not.,the%20true%20capabilities%20of%20LLMs.), our paper presenting MMLU-Redux will be at NAACL 2025 
@@ -33,11 +35,4 @@ Before all that, I completed a master's of research in computer science from Par
 * June 2023, I received the Best Doctoral Consortium Paper Award at ICAIL 2023
 
 ---
-
-## Blog Post
-
-**Dictionnary Series: What do we mean when we talk about Natural Language Processing (NLP)?**\
-Claire Barale\
-Data for Children Collaborative, Edinburgh Futures Institute | [post](https://www.dataforchildrencollaborative.com/news/dcc-dictionary-what-do-we-mean-when-we-talk-about-natural-language-processing)
-
----
+--
