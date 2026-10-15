@@ -11,7 +11,7 @@ Before all that, I completed a master's of research in computer science from Par
 
 ||||
 |-- |:----: |-- |
-||[Google Scholar](https://scholar.google.com/citations?user=oAqjTukAAAAJ&hl) \| [Twitter](https://twitter.com/clairebarale) \| [Linkedin](https://www.linkedin.com/in/claire-barale-leandri/) \| Email: claire.barale (at) di.ku.dk||            
+||[Google Scholar](https://scholar.google.com/citations?user=oAqjTukAAAAJ&hl) \| [X](https://twitter.com/clairebarale) \| [Linkedin](https://www.linkedin.com/in/claire-barale-leandri/) \| Email: claire.barale (at) di.ku.dk||            
 
 ---
 
